@@ -1,0 +1,11 @@
+/Users/momo/Desktop/PhoneAbs/obj/Debug/netcoreapp2.2/PhoneAbs.csprojAssemblyReference.cache
+/Users/momo/Desktop/PhoneAbs/obj/Debug/netcoreapp2.2/PhoneAbs.csproj.CoreCompileInputs.cache
+/Users/momo/Desktop/PhoneAbs/obj/Debug/netcoreapp2.2/PhoneAbs.AssemblyInfoInputs.cache
+/Users/momo/Desktop/PhoneAbs/obj/Debug/netcoreapp2.2/PhoneAbs.AssemblyInfo.cs
+/Users/momo/Desktop/PhoneAbs/bin/Debug/netcoreapp2.2/PhoneAbs.deps.json
+/Users/momo/Desktop/PhoneAbs/bin/Debug/netcoreapp2.2/PhoneAbs.runtimeconfig.json
+/Users/momo/Desktop/PhoneAbs/bin/Debug/netcoreapp2.2/PhoneAbs.runtimeconfig.dev.json
+/Users/momo/Desktop/PhoneAbs/bin/Debug/netcoreapp2.2/PhoneAbs.dll
+/Users/momo/Desktop/PhoneAbs/bin/Debug/netcoreapp2.2/PhoneAbs.pdb
+/Users/momo/Desktop/PhoneAbs/obj/Debug/netcoreapp2.2/PhoneAbs.dll
+/Users/momo/Desktop/PhoneAbs/obj/Debug/netcoreapp2.2/PhoneAbs.pdb
